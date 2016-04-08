@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="17608" started-at="2016-04-08T12:59:45Z" finished-at="2016-04-08T13:00:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17608" started-at="2016-04-08T12:59:45Z" finished-at="2016-04-08T13:00:03Z">
+      <class name="com.mycompany.app.LoginTestCase">
+        <test-method status="PASS" signature="VerifyLoginRoomManager()[pri:0, instance:com.mycompany.app.LoginTestCase@1690d0ea]" name="VerifyLoginRoomManager" duration-ms="16073" started-at="2016-04-08T08:59:45Z" finished-at="2016-04-08T09:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginRoomManager -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mycompany.app.LoginTestCase@1690d0ea]" name="tearDown" is-config="true" duration-ms="1491" started-at="2016-04-08T09:00:01Z" finished-at="2016-04-08T09:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mycompany.app.LoginTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

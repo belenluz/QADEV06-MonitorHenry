@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="23919" started-at="2016-04-08T13:27:41Z" finished-at="2016-04-08T13:28:05Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="23919" started-at="2016-04-08T13:27:41Z" finished-at="2016-04-08T13:28:05Z">
+      <class name="com.mycompany.app.LocationTestCase">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:com.mycompany.app.LocationTestCase@47978f4f]" name="testSetUp" is-config="true" duration-ms="14006" started-at="2016-04-08T09:27:41Z" finished-at="2016-04-08T09:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="CreateNewLocation()[pri:0, instance:com.mycompany.app.LocationTestCase@47978f4f]" name="CreateNewLocation" duration-ms="9719" started-at="2016-04-08T09:27:55Z" finished-at="2016-04-08T09:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewLocation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mycompany.app.LocationTestCase@47978f4f]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-04-08T09:28:05Z" finished-at="2016-04-08T09:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mycompany.app.LocationTestCase -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
