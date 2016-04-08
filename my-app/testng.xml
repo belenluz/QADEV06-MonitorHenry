@@ -4,6 +4,7 @@
   <test name="Simple Test">
     <classes>
      <class name="com.mycompany.app.LoginTestCase"/>
+     <class name="com.mycompany.app.LocationTestCase"/>
     </classes>
   </test>
 </suite>
