@@ -3,7 +3,7 @@
 <suite name="Example test run">
   <test name="Simple Test">
     <classes>
-     <class name="com.mycompany.app.LocationTestCase"/>
+     <class name="com.mycompany.app.LoginTestCase"/>
     </classes>
   </test>
 </suite>
