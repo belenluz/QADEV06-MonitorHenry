@@ -25,7 +25,7 @@ public class LocationTestCase {
 	  private Login login = new Login();
 	  private Generator build = new Generator();
 	  
-	@BeforeTest
+	@BeforeClass
 	public void testSetUp() {
 		driver = new FirefoxDriver();
 	    login.begin(driver);
@@ -49,7 +49,7 @@ public class LocationTestCase {
 	    System.out.println(val);
   }
   
-  @AfterTest
+  @AfterClass
 	public void tearDown() {
 		driver.quit();
 	}

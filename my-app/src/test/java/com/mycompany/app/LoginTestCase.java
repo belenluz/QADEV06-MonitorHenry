@@ -30,7 +30,7 @@ public class LoginTestCase {
     driver.findElement(By.xpath("//button[@type='submit']")).click();
   }
   
-  @AfterTest
+  @AfterClass
 	public void tearDown() {
 	  driver.findElement(By.cssSelector("a > span")).click();
 	  driver.quit();

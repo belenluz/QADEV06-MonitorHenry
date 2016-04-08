@@ -5,6 +5,7 @@
     <classes>
      <class name="com.mycompany.app.LoginTestCase"/>
      <class name="com.mycompany.app.LocationTestCase"/>
+     <class name="com.mycompany.app.LocationAssociationsTestCase"/>
     </classes>
   </test>
 </suite>
