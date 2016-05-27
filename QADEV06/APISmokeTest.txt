@@ -1,0 +1,19 @@
+Title: GET /projects.json return 200
+Description: 
+	This test verifies that the GET API for the /projects.json is implemented returning 200 as code status
+
+Requirement:
+	A REST Client will be used for the request execution
+
+Steps:
+	1. Open the REST Client Tool
+	2. Enter the endpoint https://todo.ly/projects.json
+	3. Select the GET option in the tool
+	4. Execute the request
+
+Expected Results:
+	The reponse returned has as 200 as code status
+
+
+	
+	
