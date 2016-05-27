@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Simple Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.301">
+  <properties />
+  
+  
+            <testcase name="VerifyEnabledRoom" time="8.301" classname="org.fundacionjala.automation.admin.tests.room.EnabledRoom" />
+      
+</testsuite>

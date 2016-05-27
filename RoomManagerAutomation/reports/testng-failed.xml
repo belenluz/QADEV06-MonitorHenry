@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Example test run]">
+  <test name="Simple Test">
+    <classes>
+      <class name="org.fundacionjala.automation.admin.tests.base.BaseTest"/>
+      <class name="org.fundacionjala.automation.admin.tests.location.EditLocationName"/>
+    </classes>
+  </test> <!-- Simple Test -->
+</suite> <!-- Failed suite [Example test run] -->

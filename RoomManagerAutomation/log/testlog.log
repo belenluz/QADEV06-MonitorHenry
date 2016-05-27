@@ -1,0 +1,1155 @@
+2016-04-22 16:22:06,417 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-22 16:22:17,073 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:22:18,316 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:22:18,971 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:22:19,212 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:22:19,895 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-22 16:22:20,520 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-22 16:22:21,673 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-22 16:22:21,983 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-22 16:22:22,382 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-22 16:22:22,916 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-22 16:22:23,166 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-22 16:22:26,124 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:22:26,502 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-22 16:22:29,731 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:22:29,984 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-22 16:22:30,339 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-22 16:22:30,570 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-22 16:22:33,820 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:22:34,463 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-22 16:22:36,091 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-22 16:22:36,703 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-22 16:22:37,027 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-22 16:22:37,274 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-22 16:22:38,040 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-22 16:22:41,215 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:22:41,572 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-22 16:22:43,903 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:22:44,420 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-22 16:22:47,622 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:22:48,021 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-22 16:22:48,023 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-22 16:23:18,397 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-22 16:23:19,609 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:23:20,166 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:23:20,667 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:23:20,822 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:23:22,105 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-22 16:23:23,883 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:23:24,052 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-22 16:23:24,052 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-22 16:23:24,545 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-22 16:23:26,917 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:23:27,210 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-22 16:23:27,461 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-22 16:23:28,370 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:23:28,750 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:23:29,552 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:23:29,680 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:23:30,160 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-22 16:23:30,663 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-22 16:23:31,830 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-22 16:23:32,265 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-22 16:23:33,163 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-22 16:23:33,287 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-22 16:23:35,698 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:23:36,527 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-22 16:23:36,969 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-22 16:23:37,796 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-22 16:23:37,951 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-22 16:23:38,115 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-22 16:23:41,034 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:23:41,545 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-22 16:23:41,712 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-22 16:23:42,682 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-22 16:23:45,369 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-22 16:23:46,412 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:23:46,823 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:23:47,495 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:23:47,701 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:23:48,335 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-22 16:23:51,593 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:23:52,203 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-22 16:23:52,501 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-22 16:23:55,099 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:23:55,100 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-22 16:23:55,398 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-22 16:23:56,540 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:23:57,017 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:23:57,535 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:23:57,725 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:23:58,306 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-22 16:23:58,737 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-22 16:23:59,680 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-22 16:23:59,822 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-22 16:23:59,901 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-22 16:24:02,369 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:24:02,753 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:24:02,903 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:24:03,289 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:24:03,826 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:24:04,108 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:24:05,230 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-22 16:24:05,401 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: blue
+2016-04-22 16:24:07,540 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-22 16:24:07,572 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-22 16:24:14,212 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:24:16,442 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:24:16,791 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:24:17,019 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:24:17,504 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:24:18,145 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:24:18,318 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:24:18,932 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-22 16:24:20,311 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:24:21,039 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:24:21,816 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:24:22,025 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:24:22,309 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:24:22,788 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:24:22,996 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:24:23,282 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-22 16:24:25,027 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-22 16:24:25,672 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-22 16:24:25,927 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-22 16:24:26,556 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-22 16:24:26,673 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-22 16:24:27,519 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-22 16:24:27,851 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-22 16:24:28,046 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-22 16:24:30,020 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:24:31,903 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:24:32,237 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:24:32,360 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:24:33,161 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-22 16:24:33,854 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-22 16:24:34,923 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-22 16:24:35,086 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-22 16:24:35,385 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-22 16:24:35,719 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-22 16:24:36,057 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-22 16:24:38,886 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:24:39,674 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-22 16:24:42,795 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:24:43,061 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-22 16:24:43,415 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-22 16:24:43,548 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-22 16:24:44,547 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:24:46,878 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:24:47,222 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:24:47,359 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:24:47,712 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:24:48,277 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:24:48,616 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:24:49,141 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-22 16:24:50,965 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-22 16:24:53,361 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:24:53,520 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-22 16:24:55,064 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:24:56,701 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:24:57,029 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:24:57,172 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:24:57,840 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-22 16:24:59,808 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:25:01,140 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-22 16:25:02,095 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-22 16:25:02,273 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-22 16:25:03,273 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-22 16:25:06,186 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:25:07,378 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-22 16:27:00,791 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-22 16:27:10,599 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:27:12,742 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:27:13,473 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:27:13,793 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:27:14,194 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:27:15,120 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:27:15,432 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:27:16,279 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-22 16:27:17,412 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:27:19,239 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:27:19,581 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:27:19,693 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:27:19,939 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:27:20,520 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:27:20,725 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:27:20,882 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-22 16:27:22,954 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-22 16:27:23,528 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-22 16:27:24,103 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-22 16:27:24,487 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-22 16:27:24,625 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-22 16:27:25,982 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-22 16:27:27,005 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-22 16:27:27,150 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-22 16:27:28,463 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on a specific Meeting according the subject: RoomManager
+2016-04-22 16:27:28,842 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Remove Meeting button
+2016-04-22 16:27:29,406 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-22 16:27:29,636 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-22 16:27:29,879 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if a meeting has been removed according a subject: RoomManager
+2016-04-22 16:27:30,703 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:27:32,900 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:27:33,474 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:27:33,691 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:27:34,232 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-22 16:27:34,870 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-22 16:27:35,858 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-22 16:27:36,005 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-22 16:27:36,312 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-22 16:27:36,886 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-22 16:27:37,099 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-22 16:27:39,491 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:27:40,252 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-22 16:27:43,037 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:27:43,354 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-22 16:27:43,628 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-22 16:27:43,765 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-22 16:27:44,689 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:27:47,183 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:27:47,805 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:27:47,984 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:27:54,402 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:27:55,027 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:27:55,271 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:27:55,988 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-22 16:27:58,162 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-22 16:28:00,285 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:28:00,481 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-22 16:28:32,649 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-22 16:29:20,044 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-22 16:29:30,184 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:29:32,065 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:29:32,587 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:29:32,822 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:29:33,236 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:29:34,214 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:29:34,486 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:29:35,052 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-22 16:29:36,413 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:29:38,059 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:29:38,353 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:29:38,476 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:29:38,715 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:29:39,326 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:29:39,512 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:29:39,784 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-22 16:29:41,174 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-22 16:29:41,798 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-22 16:29:42,314 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-22 16:29:42,601 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-22 16:29:42,730 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-22 16:29:43,314 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-22 16:29:43,875 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-22 16:29:44,072 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-22 16:29:45,468 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on a specific Meeting according the subject: RoomManager
+2016-04-22 16:29:45,731 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Remove Meeting button
+2016-04-22 16:29:46,365 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-22 16:29:46,550 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-22 16:29:46,755 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if a meeting has been removed according a subject: RoomManager
+2016-04-22 16:29:47,558 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:29:49,607 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:29:49,932 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:29:50,146 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:29:51,024 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-22 16:29:51,686 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-22 16:29:52,708 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-22 16:29:52,922 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-22 16:29:53,351 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-22 16:29:54,637 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-22 16:29:54,820 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-22 16:29:57,067 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:29:57,483 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-22 16:29:59,873 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-22 16:30:00,095 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-22 16:30:00,326 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-22 16:30:00,443 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-22 16:30:00,941 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:30:03,254 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-22 16:30:03,613 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-22 16:30:03,815 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-22 16:30:04,278 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-22 16:30:04,902 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-22 16:30:05,103 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-22 16:30:05,522 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-22 16:30:07,541 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-22 16:30:09,248 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:30:09,392 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-22 16:30:10,957 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-22 16:30:12,320 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-22 16:30:12,820 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-22 16:30:12,952 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-22 16:30:13,479 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-22 16:30:15,392 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:30:15,656 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-22 16:30:16,537 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-22 16:30:16,772 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-22 16:30:17,451 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-22 16:30:20,725 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-22 16:30:21,740 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-25 07:55:54,138 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-25 07:56:14,769 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:57:38,300 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-25 07:57:48,863 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:57:50,028 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 07:57:51,561 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 07:57:51,747 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 07:57:52,929 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-25 07:57:54,202 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-25 07:57:55,626 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-25 07:57:55,945 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-25 07:57:56,387 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-25 07:57:56,970 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-25 07:57:57,334 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-25 07:58:00,129 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:58:00,998 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-25 07:58:04,251 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:58:04,458 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-25 07:58:04,871 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-25 07:58:05,025 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-25 07:58:07,407 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:58:08,753 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-25 07:58:10,481 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-25 07:58:11,109 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-25 07:58:11,408 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-25 07:58:11,647 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-25 07:58:12,414 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-25 07:58:14,850 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:58:15,213 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-25 07:58:17,503 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:58:18,229 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-25 07:58:22,692 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:58:23,057 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-25 07:58:23,163 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-25 07:58:53,447 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-25 07:58:54,348 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:58:55,098 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 07:58:55,594 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 07:58:55,737 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 07:58:57,078 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-25 07:58:59,449 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:58:59,660 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-25 07:58:59,660 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-25 07:58:59,946 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-25 07:59:02,190 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:59:02,370 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-25 07:59:02,653 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-25 07:59:03,609 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:59:04,175 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 07:59:04,656 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 07:59:04,793 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 07:59:05,186 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-25 07:59:05,858 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-25 07:59:06,991 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-25 07:59:07,369 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-25 07:59:08,117 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-25 07:59:08,248 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-25 07:59:10,672 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:59:11,655 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-25 07:59:12,038 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-25 07:59:12,851 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-25 07:59:13,046 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-25 07:59:13,649 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-25 07:59:16,342 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:59:17,531 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-25 07:59:17,792 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-25 07:59:18,431 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-25 07:59:21,758 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-25 07:59:22,115 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:59:22,577 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 07:59:23,143 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 07:59:23,291 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 07:59:23,837 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-25 07:59:26,593 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:59:27,008 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-25 07:59:27,217 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-25 07:59:29,156 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 07:59:29,157 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-25 07:59:29,647 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-25 07:59:30,516 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:59:31,263 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 07:59:31,668 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 07:59:31,831 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 07:59:32,412 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-25 07:59:32,963 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-25 07:59:33,893 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-25 07:59:34,036 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-25 07:59:34,129 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-25 07:59:37,285 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-25 07:59:37,690 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-25 07:59:37,866 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-25 07:59:38,378 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-25 07:59:39,821 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-25 07:59:40,085 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-25 07:59:43,388 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-25 07:59:43,508 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: blue
+2016-04-25 07:59:45,680 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-25 07:59:45,837 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-25 07:59:52,618 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-25 07:59:54,556 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-25 07:59:54,880 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-25 07:59:55,053 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-25 07:59:55,543 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-25 07:59:56,197 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-25 07:59:56,357 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-25 07:59:56,506 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-25 07:59:58,473 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-25 08:00:00,007 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-25 08:00:00,321 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-25 08:00:00,460 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-25 08:00:00,783 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-25 08:00:01,457 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-25 08:00:01,733 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-25 08:00:01,859 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-25 08:00:03,865 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-25 08:00:04,337 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-25 08:00:04,704 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-25 08:00:05,016 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-25 08:00:05,167 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-25 08:00:05,962 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-25 08:00:06,573 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-25 08:00:06,992 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-25 08:00:08,170 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on a specific Meeting according the subject: RoomManager
+2016-04-25 08:00:08,455 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Remove Meeting button
+2016-04-25 08:00:08,997 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-25 08:00:09,184 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-25 08:00:09,307 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if a meeting has been removed according a subject: RoomManager
+2016-04-25 08:00:10,013 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-25 08:00:12,261 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 08:00:12,496 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 08:00:12,766 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 08:00:13,174 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-25 08:00:13,700 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-25 08:00:15,148 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-25 08:00:15,376 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-25 08:00:15,741 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-25 08:00:16,023 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-25 08:00:16,263 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-25 08:00:19,279 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-25 08:00:19,859 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-25 08:00:22,445 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-25 08:00:22,785 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-25 08:00:23,292 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-25 08:00:23,424 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-25 08:00:23,919 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-25 08:00:25,611 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-25 08:00:25,957 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-25 08:00:26,084 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-25 08:00:26,412 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-25 08:00:27,156 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-25 08:00:27,332 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-25 08:00:28,073 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-25 08:00:29,797 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-25 08:00:31,540 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-25 08:00:32,244 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-25 08:00:33,009 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-25 08:00:34,941 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-25 08:00:35,507 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-25 08:00:35,655 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-25 08:00:36,127 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-25 08:00:37,829 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-25 08:00:38,205 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-25 08:00:39,583 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-25 08:00:39,760 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-25 08:00:40,771 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-25 08:00:44,560 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-25 08:00:45,306 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-26 07:45:32,046 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-26 07:45:54,645 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:45:56,075 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:45:56,641 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:45:56,986 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:45:58,311 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 07:45:59,385 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-26 07:46:00,878 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-26 07:46:01,212 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-26 07:46:01,638 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-26 07:46:02,166 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-26 07:46:02,336 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-26 07:46:03,863 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:46:04,608 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 07:46:06,924 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:46:07,675 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 07:46:08,053 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-26 07:46:08,189 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 07:46:09,533 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:46:11,126 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 07:46:12,759 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 07:46:13,320 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 07:46:13,691 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-26 07:46:13,820 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-26 07:46:14,678 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-26 07:46:16,180 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:46:17,089 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 07:46:18,589 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:46:19,386 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 07:46:22,426 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:46:23,118 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 07:46:23,145 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-26 07:46:53,403 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 07:46:53,799 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:46:54,777 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:46:55,121 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:46:55,276 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:46:56,510 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 07:46:58,209 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:46:58,436 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-26 07:46:58,436 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-26 07:46:58,824 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 07:47:00,862 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:47:01,100 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-26 07:47:01,409 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 07:47:02,267 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:47:02,644 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:47:03,295 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:47:03,824 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:47:04,195 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-26 07:47:04,674 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-26 07:47:05,710 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-26 07:47:06,390 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-26 07:47:07,479 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-26 07:47:07,626 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 07:47:10,468 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:47:10,658 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 07:47:10,957 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-26 07:47:11,689 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-26 07:47:11,852 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 07:47:11,879 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-26 07:47:13,455 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:47:14,237 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 07:47:14,377 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-26 07:47:14,996 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-26 07:47:17,501 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 07:47:17,787 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:47:18,328 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:47:18,843 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:47:19,006 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:47:19,422 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 07:47:21,112 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:47:22,378 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-26 07:47:22,674 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 07:47:24,692 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:47:24,692 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-26 07:47:25,536 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 07:47:26,105 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:47:26,688 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:47:27,065 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:47:27,337 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:47:33,633 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-26 07:47:33,925 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-26 07:47:34,824 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-26 07:47:34,953 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-26 07:47:34,989 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 07:47:38,047 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 07:47:38,618 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 07:47:38,796 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 07:47:39,475 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 07:47:40,437 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 07:47:40,665 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 07:47:42,717 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-26 07:47:43,174 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: blue
+2016-04-26 07:47:45,915 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-26 07:47:46,065 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-26 07:47:52,422 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 07:47:54,291 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 07:47:54,649 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 07:47:54,870 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 07:48:25,622 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 07:48:26,763 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 07:48:26,987 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 07:48:27,104 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 07:48:27,609 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 07:48:28,417 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 07:48:28,559 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 07:48:28,942 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-26 07:48:30,617 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-26 07:48:31,258 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-26 07:48:31,750 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-26 07:48:31,995 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-26 07:48:32,107 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-26 07:48:32,819 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-26 07:48:33,213 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-26 07:48:33,405 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-26 07:48:37,669 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on a specific Meeting according the subject: RoomManager
+2016-04-26 07:48:37,940 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Remove Meeting button
+2016-04-26 07:48:38,711 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-26 07:48:39,152 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-26 07:48:39,247 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if a meeting has been removed according a subject: RoomManager
+2016-04-26 07:48:40,649 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 07:48:42,668 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:48:42,958 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:48:43,154 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:48:43,824 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-26 07:48:44,598 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-26 07:48:45,848 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-26 07:48:46,081 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-26 07:48:46,633 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-26 07:48:47,002 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-26 07:48:47,154 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-26 07:48:49,823 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 07:48:50,339 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-26 07:48:53,071 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 07:48:53,352 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 07:48:53,895 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-26 07:48:54,117 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 07:48:54,550 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 07:48:56,682 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 07:48:57,198 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 07:48:57,342 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 07:48:57,763 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 07:48:58,275 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 07:48:58,440 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 07:48:59,218 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-26 07:49:01,453 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-26 07:49:02,987 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 07:49:03,159 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-26 07:49:04,677 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 07:49:06,076 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 07:49:06,759 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 07:49:07,099 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 07:49:07,696 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-26 07:49:09,139 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 07:49:09,720 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-26 07:49:10,532 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-26 07:49:10,685 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-26 07:49:11,691 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-26 07:49:14,064 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 07:49:15,152 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-26 09:52:26,399 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-26 09:52:47,945 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 09:59:27,252 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-26 09:59:38,912 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 09:59:40,028 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 09:59:40,889 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 09:59:41,266 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 09:59:41,988 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 09:59:42,829 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-26 09:59:44,055 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-26 09:59:44,409 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-26 09:59:44,880 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-26 09:59:45,498 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-26 09:59:45,692 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-26 09:59:48,978 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 09:59:49,311 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 09:59:53,005 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 09:59:53,239 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 09:59:53,631 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-26 09:59:53,771 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 09:59:56,587 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 09:59:57,209 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 09:59:58,760 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 09:59:59,335 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 09:59:59,649 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-26 09:59:59,870 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-26 10:00:00,691 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-26 10:00:03,686 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 10:00:04,486 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 10:00:06,223 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 10:00:07,159 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 10:00:09,977 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 10:00:10,259 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 10:00:10,278 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-26 10:00:40,679 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 10:00:41,581 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 10:00:42,234 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 10:00:42,652 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 10:00:42,925 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 10:00:44,442 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 10:00:45,945 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 10:00:46,219 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-26 10:00:46,220 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-26 10:00:46,485 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 10:00:48,314 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 10:00:48,879 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-26 10:00:49,076 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 10:00:49,923 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 10:00:50,495 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 10:00:51,287 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 10:00:51,785 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 10:00:52,193 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-26 10:00:52,897 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-26 10:00:54,060 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-26 10:00:54,929 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-26 10:00:55,766 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-26 10:00:55,901 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 10:00:58,468 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 10:00:58,870 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 10:00:59,145 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-26 10:01:00,122 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-26 10:01:00,279 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 10:01:00,384 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-26 10:01:03,272 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 10:01:04,153 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 10:01:04,493 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-26 10:01:05,134 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-26 10:01:07,964 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 10:01:08,303 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 10:01:09,200 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 10:01:09,450 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 10:01:09,579 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 10:01:10,006 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 10:01:12,707 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 10:01:13,195 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-26 10:01:13,460 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 10:01:16,172 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 10:01:16,172 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-26 10:01:16,511 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 10:01:17,162 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 10:01:17,764 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 10:01:18,352 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 10:01:18,542 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 10:01:18,931 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-26 10:01:19,177 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-26 10:01:20,184 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-26 10:01:20,468 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-26 10:01:20,738 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 10:01:24,080 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 10:01:24,354 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 10:01:24,506 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 10:01:25,090 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 10:01:26,005 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 10:01:26,155 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 10:01:27,721 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-26 10:01:27,799 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: blue
+2016-04-26 10:01:30,931 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-26 14:19:52,209 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-26 14:20:03,985 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:00:04,408 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-26 18:00:15,927 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:00:17,606 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:00:18,093 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:00:18,255 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:00:18,903 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 18:00:19,739 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-26 18:00:21,297 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-26 18:00:21,686 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-26 18:00:22,274 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-26 18:00:22,859 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-26 18:00:23,116 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-26 18:00:26,468 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:00:27,230 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 18:00:30,521 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 18:00:30,775 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 18:00:31,155 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-26 18:00:31,293 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 18:00:33,808 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:00:34,308 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 18:00:35,841 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 18:00:36,466 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 18:00:36,756 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-26 18:00:36,996 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-26 18:00:37,575 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-26 18:00:40,309 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:00:40,621 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-26 18:00:43,076 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:00:43,598 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 18:00:46,306 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 18:00:46,644 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 18:00:46,700 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-26 18:01:16,935 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 18:01:17,252 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:01:48,693 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:01:49,268 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:01:49,926 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:01:50,123 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:01:50,768 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-26 18:01:51,524 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-26 18:01:52,788 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-26 18:01:53,282 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-26 18:01:54,139 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-26 18:01:54,338 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 18:01:57,270 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:01:57,540 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 18:01:58,012 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-26 18:01:58,671 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-26 18:01:58,842 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-26 18:01:59,004 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-26 18:02:01,729 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:02:02,772 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-26 18:02:03,032 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-26 18:02:03,780 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-26 18:02:07,310 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-26 18:02:07,748 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:02:08,349 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:02:09,169 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:02:09,327 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:02:09,789 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-26 18:02:12,708 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 18:02:13,269 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-26 18:02:13,543 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 18:02:15,694 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 18:02:15,694 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-26 18:02:15,994 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-26 18:02:16,674 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:02:17,358 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:02:17,949 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:02:18,132 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:02:18,810 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-26 18:02:19,480 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-26 18:02:20,540 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-26 18:02:20,668 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-26 18:02:20,738 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-26 18:02:24,523 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 18:02:24,897 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 18:02:25,813 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 18:02:26,423 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 18:02:27,736 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 18:02:27,924 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 18:02:29,543 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-26 18:02:30,317 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: blue
+2016-04-26 18:02:31,939 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-26 18:02:32,059 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-26 18:02:39,520 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 18:02:41,145 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 18:02:41,484 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 18:02:41,672 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 18:02:42,199 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 18:02:42,939 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 18:02:43,122 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 18:02:43,341 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-26 18:02:45,496 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 18:02:47,144 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 18:02:47,483 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 18:02:47,704 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 18:02:48,010 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 18:02:48,661 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 18:02:49,017 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 18:02:49,181 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-26 18:02:51,408 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-26 18:02:52,265 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-26 18:02:52,567 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-26 18:02:53,113 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-26 18:02:53,276 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-26 18:02:53,817 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-26 18:02:54,295 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-26 18:02:54,457 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-26 18:02:55,910 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on a specific Meeting according the subject: RoomManager
+2016-04-26 18:02:56,130 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Remove Meeting button
+2016-04-26 18:02:57,032 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-26 18:02:57,370 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-26 18:02:57,470 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if a meeting has been removed according a subject: RoomManager
+2016-04-26 18:02:58,498 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 18:03:01,492 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:03:01,920 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:03:02,095 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:03:02,635 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-26 18:03:03,384 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-26 18:03:04,677 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-26 18:03:05,045 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-26 18:03:05,843 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-26 18:03:06,205 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-26 18:03:06,415 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-26 18:03:09,608 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 18:03:10,055 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-26 18:03:12,664 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-26 18:03:12,932 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-26 18:03:13,311 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-26 18:03:13,517 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-26 18:03:14,506 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 18:03:16,709 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-26 18:03:17,086 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-26 18:03:17,225 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-26 18:03:17,641 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-26 18:03:18,181 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-26 18:03:18,475 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-26 18:03:18,683 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-26 18:03:20,883 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-26 18:03:23,109 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 18:03:23,192 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-26 18:03:25,836 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-26 18:03:27,259 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-26 18:03:27,617 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-26 18:03:27,825 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-26 18:03:28,370 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-26 18:03:30,738 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 18:03:31,059 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-26 18:03:31,979 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-26 18:03:32,216 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-26 18:03:33,251 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-26 18:03:35,737 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-26 18:03:37,013 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-27 14:47:41,999 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-27 14:47:56,996 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:48:28,639 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:48:59,615 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:49:31,016 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:50:01,870 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:53:34,448 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-27 14:53:44,761 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 14:54:14,120 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-27 14:54:42,065 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-27 14:54:53,476 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-27 14:55:25,116 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-27 17:35:19,469 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-27 17:35:31,638 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 17:35:33,175 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:35:33,978 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:35:34,489 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:35:35,200 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-27 17:35:36,073 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-27 17:35:37,110 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-27 17:35:37,422 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-27 17:35:38,104 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-27 17:35:38,609 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-27 17:35:38,831 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-27 17:35:41,054 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-27 17:35:41,826 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-27 17:35:44,999 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:35:45,192 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-27 17:35:45,615 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-27 17:35:45,786 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-27 17:35:48,279 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-27 17:35:48,993 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-27 17:35:49,279 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-27 17:35:49,823 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-27 17:35:50,109 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-27 17:35:50,367 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-27 17:35:50,742 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-27 17:35:53,297 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-27 17:35:54,222 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-27 17:35:57,080 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-27 17:35:57,486 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-27 17:36:00,406 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:36:00,755 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-27 17:36:00,793 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-27 17:36:31,045 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-27 17:36:31,840 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 17:36:32,670 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:36:33,048 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:36:33,256 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:36:34,426 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-27 17:36:36,042 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:36:36,206 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-27 17:36:36,207 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-27 17:36:36,375 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-27 17:36:38,294 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:36:38,479 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-27 17:36:38,793 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-27 17:36:39,446 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 17:36:40,048 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:36:40,511 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:36:40,655 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:36:41,054 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-27 17:36:41,502 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-27 17:36:42,672 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-27 17:36:43,192 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-27 17:36:44,020 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-27 17:37:15,022 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 17:37:15,434 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:37:15,948 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:37:16,085 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:37:17,978 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-27 17:37:19,265 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:37:19,766 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-27 17:37:19,896 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-27 17:37:21,431 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:37:21,431 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-27 17:37:21,762 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-27 17:37:22,408 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-27 17:37:22,999 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:37:23,800 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:37:24,088 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:37:24,430 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-27 17:37:24,688 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-27 17:37:25,255 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-27 17:37:57,139 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-27 17:37:57,339 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-27 17:38:04,337 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-27 17:38:05,909 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-27 17:38:06,315 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-27 17:38:06,527 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-27 17:38:07,073 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-27 17:38:07,691 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-27 17:38:07,841 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-27 17:38:08,464 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-27 17:38:09,243 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-27 17:38:10,538 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-27 17:38:10,879 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-27 17:38:11,014 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-27 17:38:11,393 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-27 17:38:12,191 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-27 17:38:12,493 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-27 17:38:12,629 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-27 17:38:14,387 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-27 17:38:15,154 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-27 17:38:15,457 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-27 17:38:15,731 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-27 17:38:15,864 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-27 17:38:16,387 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-27 17:38:16,694 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-27 17:38:16,849 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-27 17:38:18,728 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-27 17:38:20,780 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-27 17:38:21,161 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-27 17:38:21,305 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-27 17:38:21,736 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-27 17:38:22,549 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-27 17:38:23,630 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-27 17:38:23,835 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-27 17:38:24,617 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-27 17:38:24,832 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-27 17:38:24,962 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-27 17:38:27,307 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-27 17:38:28,284 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-27 17:38:58,723 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-27 17:39:29,729 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser
+2016-04-28 09:29:56,878 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Open Browser: Firefox
+2016-04-28 09:30:11,437 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:30:13,347 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:30:14,165 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:30:14,658 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:30:15,500 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-28 09:30:16,359 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-28 09:30:17,547 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-28 09:30:17,864 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-28 09:30:18,386 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-28 09:30:18,973 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: RF
+2016-04-28 09:30:19,142 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-28 09:30:21,622 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:30:22,357 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-28 09:30:25,308 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:30:25,493 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-28 09:30:25,814 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-28 09:30:25,966 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-28 09:30:28,543 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:30:29,289 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-28 09:30:31,386 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-28 09:30:32,831 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-28 09:30:33,257 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-28 09:30:33,574 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-28 09:30:34,107 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-28 09:30:36,249 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:30:37,061 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Resources
+2016-04-28 09:30:39,515 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:30:39,910 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-28 09:30:42,246 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:30:43,266 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-28 09:30:43,410 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if the Resource has been unassigned
+2016-04-28 09:31:13,604 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-28 09:31:14,329 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:31:14,994 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:31:15,387 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:31:15,675 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:31:16,909 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-28 09:31:18,539 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:31:18,735 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Disabled button
+2016-04-28 09:31:18,743 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Tablet page displays the Conference Room disabled
+2016-04-28 09:31:19,151 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-28 09:31:21,399 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:31:21,776 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Enabled button
+2016-04-28 09:31:21,974 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-28 09:31:22,646 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:31:22,979 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:31:23,489 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:31:23,625 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:31:23,994 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Locations
+2016-04-28 09:31:24,433 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on AddLocation button
+2016-04-28 09:31:25,901 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Name: FirstLocationName
+2016-04-28 09:31:26,377 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location DisplayName: FNL
+2016-04-28 09:31:27,278 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Input Location Description: A new Location has been added
+2016-04-28 09:31:27,399 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-28 09:31:30,281 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:31:30,799 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-28 09:31:31,347 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Double click on Location: FNL
+2016-04-28 09:31:32,100 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Edit Location Name: SecondLocationName
+2016-04-28 09:31:32,295 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on SaveLocation button
+2016-04-28 09:31:32,518 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Verify if the Location’s name has the new name assignment
+2016-04-28 09:31:36,292 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:31:36,733 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Check Location CheckBox
+2016-04-28 09:31:36,974 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location
+2016-04-28 09:31:37,800 - org.fundacionjala.automation.admin.actions.LocationAction -INFO - Click on Remove Location Confirmation
+2016-04-28 09:31:40,972 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Refresh Page
+2016-04-28 09:31:41,313 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:31:42,010 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:31:42,344 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:31:42,487 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:31:42,895 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on ConferenceRooms
+2016-04-28 09:31:45,481 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:31:45,900 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Input the Capacity: 800
+2016-04-28 09:31:46,149 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-28 09:31:47,958 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:31:47,959 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Verify if Conference Room’s capacity has the new capacity inserted
+2016-04-28 09:31:48,159 - org.fundacionjala.automation.admin.actions.RoomAction -INFO - Click on Save Room button
+2016-04-28 09:31:48,906 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:31:49,611 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:31:50,173 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:31:50,428 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:31:51,096 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Click on Tablets
+2016-04-28 09:31:51,353 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Appearance button
+2016-04-28 09:31:52,084 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Select a Color: blue
+2016-04-28 09:31:52,228 - org.fundacionjala.automation.admin.actions.TabletAction -INFO - Click on Save Tablet button
+2016-04-28 09:31:52,299 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+2016-04-28 09:31:55,778 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-28 09:31:56,283 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-28 09:31:56,420 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-28 09:31:56,961 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-28 09:31:58,034 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-28 09:31:58,199 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-28 09:32:11,445 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-28 09:32:11,832 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Verify if the Tablet’s appearance has the corresponding color: red
+2016-04-28 09:32:15,139 - org.fundacionjala.automation.admin.actions.CommonAction -INFO - Close Browser
+2016-04-28 09:32:15,219 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Open Browser: Firefox
+2016-04-28 09:32:22,774 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-28 09:32:23,926 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-28 09:32:24,284 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-28 09:32:24,482 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-28 09:32:25,001 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-28 09:32:25,997 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-28 09:32:26,333 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-28 09:32:26,406 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Verify if the Tablet's home page is created with the corresponding Room’s name selected
+2016-04-28 09:32:27,545 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-28 09:32:28,863 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-28 09:32:29,167 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-28 09:32:29,376 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-28 09:32:29,652 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-28 09:32:30,144 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-28 09:32:30,378 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-28 09:32:30,487 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Available element
+2016-04-28 09:32:32,495 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Organizer: Lucero
+2016-04-28 09:32:32,977 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input Subject: RoomManager
+2016-04-28 09:32:33,249 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input initial Time: 14:00
+2016-04-28 09:32:33,908 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input end Time: 14:10
+2016-04-28 09:32:34,099 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Create button
+2016-04-28 09:32:35,498 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input username Credential: Lucero
+2016-04-28 09:32:35,971 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Input password Credential: Control123!
+2016-04-28 09:32:36,187 - org.fundacionjala.automation.tablet.actions.ScheduleTabletAction -INFO - Click on Save Meeting button
+2016-04-28 09:32:38,753 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-28 09:32:40,870 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:32:41,282 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:32:41,479 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:32:41,947 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-28 09:32:42,806 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on AddResource button
+2016-04-28 09:32:43,897 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Icon button
+2016-04-28 09:32:44,181 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on type of Resource
+2016-04-28 09:32:44,483 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource Name: Filter
+2016-04-28 09:32:44,771 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Input Resource DisplayName: FR
+2016-04-28 09:32:45,212 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on save Resource button
+2016-04-28 09:32:48,339 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-28 09:32:49,256 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-28 09:32:51,384 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Double click on Room: CENTRAL-F1R06
+2016-04-28 09:32:52,304 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Resource Associations Tab
+2016-04-28 09:32:52,776 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Associate the Resource
+2016-04-28 09:32:52,906 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Save Resource button
+2016-04-28 09:32:53,535 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-28 09:32:55,754 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Administrator name: Lucero
+2016-04-28 09:32:56,114 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Input Password: Control123
+2016-04-28 09:32:56,302 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on SignIn button
+2016-04-28 09:32:56,862 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Selector Room button
+2016-04-28 09:32:57,447 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on a Room: CENTRAL-F1R06
+2016-04-28 09:32:57,697 - org.fundacionjala.automation.tablet.actions.LoginTabletAction -INFO - Click on Start button
+2016-04-28 09:32:57,956 - org.fundacionjala.automation.tablet.actions.HomeTabletAction -INFO - Click on Search element
+2016-04-28 09:33:00,149 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Click on a specific resource: FR
+2016-04-28 09:33:02,672 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-28 09:33:02,794 - org.fundacionjala.automation.tablet.actions.SearchTabletAction -INFO - Verify if the search by Resource displays the Room corresponding: CENTRAL-F1R06
+2016-04-28 09:33:03,905 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Navigate to Admin Page: https://172.20.208.66:4040/tablet/#/register
+2016-04-28 09:33:06,303 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Username: Lucero
+2016-04-28 09:33:06,647 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Input Password: Control123
+2016-04-28 09:33:06,842 - org.fundacionjala.automation.admin.actions.LoginAction -INFO - Click on SignIn button
+2016-04-28 09:33:07,226 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on ConferenceRooms
+2016-04-28 09:33:09,478 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-28 09:33:10,097 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Click on Resources
+2016-04-28 09:33:11,195 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on CheckBox Resource
+2016-04-28 09:33:11,350 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource
+2016-04-28 09:33:11,613 - org.fundacionjala.automation.admin.actions.ResourceAction -INFO - Click on Remove Resource Confirmation
+2016-04-28 09:33:14,670 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Refresh Page
+2016-04-28 09:33:16,580 - org.fundacionjala.automation.tablet.actions.CommonTabletAction -INFO - Close Browser

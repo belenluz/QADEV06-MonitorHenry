@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="181.602" tests="8" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\bin"/>
+    <property name="java.vm.version" value="24.65-b04"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\LuceroPenarrieta\workspace\RoomManagerAutomation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\LuceroPenarrieta\workspace\RoomManagerAutomation"/>
+    <property name="java.runtime.version" value="1.7.0_67-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\LUCERO~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Server 2012 R2"/>
+    <property name="suiteXmlFile" value="suits"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.3.9\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="env.USER" value="Firefox"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_67\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\nodejs\;C:\Program Files\apache-maven-3.3.9\bin;C:\Users\LuceroPenarrieta\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\LuceroPenarrieta"/>
+    <property name="user.timezone" value="America/La_Paz"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="LuceroPenarrieta"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_67\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Denv.USER=Firefox -DsuiteXmlFile=suits"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_67"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_67\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.3.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="VerifyUnassignedResourceOfRoom" classname="org.fundacionjala.automation.admin.tests.resource.UnassignedResourceOfRoom" time="67.601"/>
+  <testcase name="VerifyEnabledRoom" classname="org.fundacionjala.automation.admin.tests.room.EnabledRoom" time="8.521"/>
+  <testcase name="VerifyLocationNameEdited" classname="org.fundacionjala.automation.admin.tests.location.EditLocationName" time="19.149"/>
+  <testcase name="VerifyEditRoomCapacity" classname="org.fundacionjala.automation.admin.tests.room.EditRoomCapacity" time="7.697"/>
+  <testcase name="VerifyEditTabletAppearance" classname="org.fundacionjala.automation.admin.tests.tablet.EditTabletAppearance" time="23.888">
+    <failure message="Tablet’s appearance does not change with the corresponding color expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: Tablet’s appearance does not change with the corresponding color expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.fundacionjala.automation.admin.tests.tablet.EditTabletAppearance.VerifyEditTabletAppearance(EditTabletAppearance.java:20)
+</failure>
+    <system-out><![CDATA[Title: Verify that Tablet’s appearance can be edited when a specific color is used
+ INFO [main] (CommonAction.java:37)- Navigate to Admin: https://172.20.208.66:4040/admin/#/admin/
+ INFO [main] (LoginAction.java:14)- Input Username: Lucero
+ INFO [main] (LoginAction.java:20)- Input Password: Control123
+ INFO [main] (LoginAction.java:25)- Click on SignIn button
+ INFO [main] (CommonAction.java:66)- Click on Tablets
+ INFO [main] (TabletAction.java:17)- Click on Appearance button
+ INFO [main] (TabletAction.java:23)- Select a Color: blue
+ INFO [main] (TabletAction.java:28)- Click on Save Tablet button
+ INFO [main] (CommonAction.java:42)- Navigate to Tablet Page: https://172.20.208.66:4040/admin/#/admin/
+ INFO [main] (LoginTabletAction.java:25)- Input Administrator name: Lucero
+ INFO [main] (LoginTabletAction.java:32)- Input Password: Control123
+ INFO [main] (LoginTabletAction.java:37)- Click on SignIn button
+ INFO [main] (LoginTabletAction.java:42)- Click on Selector Room button
+ INFO [main] (LoginTabletAction.java:53)- Click on a Room: CENTRAL-F1R06
+ INFO [main] (LoginTabletAction.java:58)- Click on Start button
+ INFO [main] (HomeTabletAction.java:25)- Click on Available element
+ INFO [main] (ScheduleTabletAction.java:97)- Verify if the Tablet’s appearance has the corresponding color: red
+]]></system-out>
+  </testcase>
+  <testcase name="VerifySignIn" classname="org.fundacionjala.automation.tablet.tests.login.SignIn" time="7.431"/>
+  <testcase name="VerifyRemoveMeeting" classname="org.fundacionjala.automation.tablet.tests.schedule.RemoveMeeting" time="10.41">
+    <failure message="Element is not clickable at point (424.16668701171875, 21.5). Other element would receive the click: &lt;div ng-repeat=&quot;toaster in toasters&quot; class=&quot;toast ng-scope toast-info&quot; ng-class=&quot;toaster.type&quot; ng-click=&quot;click(toaster)&quot; ng-mouseover=&quot;stopTimer(toaster)&quot; ng-mouseout=&quot;restartTimer(toaster)&quot;&gt;&lt;/div&gt;&#10;Command duration or timeout: 276 milliseconds&#10;Build info: version: &apos;2.53.0&apos;, revision: &apos;35ae25b1534ae328c771e0856c93e187490ca824&apos;, time: &apos;2016-03-15 10:43:46&apos;&#10;System info: host: &apos;qdv06dlp01001&apos;, ip: &apos;172.20.200.81&apos;, os.name: &apos;Windows Server 2012 R2&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.7.0_67&apos;&#10;Session ID: 42f15621-f043-4f29-b521-2d7c58f59804&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}]" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: Element is not clickable at point (424.16668701171875, 21.5). Other element would receive the click: <div ng-repeat="toaster in toasters" class="toast ng-scope toast-info" ng-class="toaster.type" ng-click="click(toaster)" ng-mouseover="stopTimer(toaster)" ng-mouseout="restartTimer(toaster)"></div>
+Command duration or timeout: 276 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'qdv06dlp01001', ip: '172.20.200.81', os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_67'
+Session ID: 42f15621-f043-4f29-b521-2d7c58f59804
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=42.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at org.fundacionjala.automation.tablet.actions.ScheduleTabletAction.click_Meeting(ScheduleTabletAction.java:73)
+	at org.fundacionjala.automation.tablet.execution.ScheduleTabletDriverScript.execute(ScheduleTabletDriverScript.java:53)
+	at manage.actions.ManageAction.manageActions(ManageAction.java:40)
+	at manage.execution.ManageDriverScript.manageTest(ManageDriverScript.java:22)
+	at org.fundacionjala.automation.tablet.tests.schedule.RemoveMeeting.VerifyRemoveMeeting(RemoveMeeting.java:19)
+]]></failure>
+    <system-out><![CDATA[Title: Verify that a Meeting can be removed
+ INFO [main] (CommonTabletAction.java:37)- Navigate to Tablet Page: https://172.20.208.66:4040/tablet/#/register
+ INFO [main] (LoginTabletAction.java:25)- Input Administrator name: Lucero
+ INFO [main] (LoginTabletAction.java:32)- Input Password: Control123
+ INFO [main] (LoginTabletAction.java:37)- Click on SignIn button
+ INFO [main] (LoginTabletAction.java:42)- Click on Selector Room button
+ INFO [main] (LoginTabletAction.java:53)- Click on a Room: CENTRAL-F1R06
+ INFO [main] (LoginTabletAction.java:58)- Click on Start button
+ INFO [main] (HomeTabletAction.java:25)- Click on Available element
+ INFO [main] (ScheduleTabletAction.java:23)- Input Organizer: Lucero
+ INFO [main] (ScheduleTabletAction.java:30)- Input Subject: RoomManager
+ INFO [main] (ScheduleTabletAction.java:36)- Input initial Time: 14:00
+ INFO [main] (ScheduleTabletAction.java:42)- Input end Time: 14:10
+ INFO [main] (ScheduleTabletAction.java:47)- Click on Create button
+ INFO [main] (ScheduleTabletAction.java:53)- Input username Credential: Lucero
+ INFO [main] (ScheduleTabletAction.java:59)- Input password Credential: Control123!
+ INFO [main] (ScheduleTabletAction.java:64)- Click on Save Meeting button
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyFindRoomByResourceSearch" classname="org.fundacionjala.automation.tablet.tests.search.FindRoomByResourceSearch" time="36.905"/>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Example test run">
+  <test name="Simple Test">
+    <classes>
+    <class name="org.fundacionjala.automation.tablet.tests.base.BaseTest"/>
+    <class name="org.fundacionjala.automation.tablet.tests.login.SignIn"/>
+    <class name="org.fundacionjala.automation.tablet.tests.schedule.RemoveMeeting"/>
+    <class name="org.fundacionjala.automation.tablet.tests.search.FindRoomByResourceSearch"/>
+    </classes>
+  </test>
+</suite>
